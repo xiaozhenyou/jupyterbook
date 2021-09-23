@@ -1,6 +1,5 @@
-# Executable Book Template
+# Credit are from Shawn's Executable Book Template
 
-This Jupyter Book contains supplemental code and visualizations for the following project:
 
 <blockquote>Rhoads, S. A. (2021). An executable notebook template to enhance interactivity with research objects: An Example Citation. The Journal of Examples.</blockquote>
 <br>
