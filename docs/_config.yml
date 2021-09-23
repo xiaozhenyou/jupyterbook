@@ -4,8 +4,8 @@
 # This is also the "master list" of all allowed keys and values.
 
 #######################################################################################
-title: "Executable Book Template" # The title of the book. Will be placed in the left navbar.
-author: Shawn A. Rhoads # The author of the book
+title: "Excutable Supplementary Materials" # The title of the book. Will be placed in the left navbar.
+author: Xiaozhen You # The author of the book
 copyright: '2021' # Copyright year to be placed in the footer
 exclude_patterns: []  # Patterns to skip when building the book. Can be glob-style (e.g. "*skip.ipynb")
 #######################################################################################
@@ -30,16 +30,16 @@ html:
   extra_navbar: ""  # Will be displayed underneath the left navbar.
   extra_footer: ""  # Will be displayed underneath the footer.
   home_page_in_navbar: false  # Whether to include your home page in the left Navigation Bar
-  baseurl: https://shawnrhoads.github.io/executable-notebooks-template  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
+  baseurl: https://xiaozhenyou.github.io/jupyterbook/  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
   comments:
     hypothesis: false
 
 repository:
-  url: https://shawnrhoads.github.io/executable-notebooks-template # The URL to your book's repository
+  url: https://xiaozhenyou.github.io/jupyterbook/ # The URL to your book's repository
   branch: main  # Which branch of the repository should be used when creating links
   path_to-book: docs/ # A path to your book's folder, relative to the repository root.
 
-footer_text: Created by <a href="http://shawnrhoads.github.io/">Shawn A Rhoads</a> using <a href="https://jupyterbook.org/">Jupyter Book</a>.
+footer_text: Created by <a href="https://xiaozhenyou.github.io/">Xiaozhen You</a> using <a href="https://jupyterbook.org/">Jupyter Book</a>.
 #######################################################################################
 
 #######################################################################################
