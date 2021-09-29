@@ -11,3 +11,4 @@ __pycache__/
 .vscode
 docs/_build/
 docs/_work
+docs/Dynamic/kmeans_dyn.m
