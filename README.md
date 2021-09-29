@@ -1,4 +1,5 @@
-# Credit given to
+# Working example of Jupyter Notebook 
+Credits given to
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5519745.svg)](https://doi.org/10.5281/zenodo.5519745)
 
